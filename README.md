@@ -1,6 +1,13 @@
 ### Hi there 👋
 # 💫 About Me:
-public class AboutMe {<br>    public static void main(String[] args) {<br>        System.out.println("Passionate about technology and software development, I am a fullstack Java/Angular developer with experience in DevOps engineering.");<br>        System.out.println("I have mastered Java programming, Angular for responsive front-end web development, and Spring and Spring Boot for robust back-end systems.");<br>        System.out.println("My skills allow me to design, develop, and deploy complex, dynamic, and responsive web applications.");<br>        System.out.println("I am adept at building RESTful web services and integrating them into cloud-ready applications.");<br>        System.out.println("With hands-on experience in real-world scenarios, I create solutions that meet business needs efficiently.");<br>    }<br>}
+public class AboutMe {<br>     
+  public static void main(String[] args) {<br>        
+    System.out.println("Passionate about technology and software development, I am a fullstack Java/Angular developer with experience in DevOps engineering.");<br>        
+    System.out.println("I have mastered Java programming, Angular for responsive front-end web development, and Spring and Spring Boot for robust back-end systems.");<br>        
+    System.out.println("My skills allow me to design, develop, and deploy complex, dynamic, and responsive web applications.");<br>        
+    System.out.println("I am adept at building RESTful web services and integrating them into cloud-ready applications.");<br>        
+    System.out.println("With hands-on experience in real-world scenarios, I create solutions that meet business needs efficiently.");<br>    }
+  <br>}
 
 
 ## 🌐 Socials:
