@@ -3,7 +3,11 @@
 💬  Passionate about technology and software development, I am a fullstack Java/Angular developer with experience in DevOps engineering.        
     With hands-on experience in real-world scenarios, I create solutions that meet business needs efficiently. 
     My skills allow me to design, develop, and deploy complex, dynamic, and responsive web applications.       
-<p align = "left"><h1>(img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)</h1></p>
+<p align="left">
+    <h1>
+        <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
+    </h1>
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/imbileljemai) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bileljemaii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilel-jemai-029950196) 
