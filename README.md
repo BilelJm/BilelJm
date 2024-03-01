@@ -1,20 +1,21 @@
 # Hi there 👋 I'm Bilel
 <h3 align="center">A passionate Full-Stack and DevOps Engineer</h3>
-# 💫 About Me:
-💬  Passionate about technology and software development, I am a fullstack Java/Angular developer with experience in DevOps engineering.        
-    With hands-on experience in real-world scenarios, I create solutions that meet business needs efficiently. 
-    My skills allow me to design, develop, and deploy complex, dynamic, and responsive web applications.       
+
 <p align="left">
     <h1>
         <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
     </h1>
 </p>
 
-
+<p> # 💫 About Me:
+💬  Passionate about technology and software development, I am a fullstack Java/Angular developer with experience in DevOps engineering.        
+    With hands-on experience in real-world scenarios, I create solutions that meet business needs efficiently. 
+    My skills allow me to design, develop, and deploy complex, dynamic, and responsive web applications.       
+</p>
 <h1 align="center">Hi 👋, I'm Bilel Jemai</h1>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bileljm" alt="bileljm" /></a> </p>
+
 
 - 📫 How to reach me **Bilel.jemai@esprit.tn or Bileljemai97@gmail.com**
 
@@ -32,4 +33,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bileljm&show_icons=true&locale=en&layout=compact" alt="bileljm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bileljm&show_icons=true&locale=en" alt="bileljm" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bileljm" alt="bileljm" /></a> </p>
 
