@@ -1,5 +1,5 @@
-# Hi there 👋 I'm Bilel
-<h3 align="center">A passionate Full-Stack and DevOps Engineer</h3>
+<h1 align="center">Hi 👋, I'm Bilel Jemai</h1>
+<h2 align="center">A passionate Full-Stack and DevOps Engineer</h2>
 
 <p align="left">
     <h1>
@@ -12,14 +12,8 @@
     With hands-on experience in real-world scenarios, I create solutions that meet business needs efficiently. 
     My skills allow me to design, develop, and deploy complex, dynamic, and responsive web applications.       
 </p>
-<h1 align="center">Hi 👋, I'm Bilel Jemai</h1>
-
-
-
 
 - 📫 How to reach me **Bilel.jemai@esprit.tn or Bileljemai97@gmail.com**
-
-- 📄 Know about my experiences [https://](https://)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
