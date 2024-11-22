@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilel Jemai</h1>
-<h2 align="center">A passionate Full-Stack and DevOps Engineer</h2>
+<h2 align="center">A DevOps Engineer</h2>
 
 <p align="left">
     <h1>
@@ -8,7 +8,7 @@
 </p>
 
 <p> # 💫 About Me:
-💬  Passionate about technology and software development, I am a fullstack Java/Angular developer with experience in DevOps engineering.        
+💬  Passionate about technology and software development, I am a DevOps engineering.        
     With hands-on experience in real-world scenarios, I create solutions that meet business needs efficiently. 
     My skills allow me to design, develop, and deploy complex, dynamic, and responsive web applications.       
 </p>
